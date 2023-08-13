@@ -7,19 +7,32 @@ The dataset is organised such that each of the two female actor and their emotio
 
 # Output Attributes
 anger
+
 disgust
+
 fear
+
 happiness
+
 pleasant surprise
+
 sadness
+
 neutral
 
 # Libraries
 pandas
+
 matplotlib
+
 keras
+
 tensorflow
+
 librosa
+
 Neural Network
+
 LSTM Network
+
 Accuracy: 67.00
